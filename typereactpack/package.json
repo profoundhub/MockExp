@@ -2,6 +2,7 @@
   "name": "type-script--react-js--web-pack",
   "scripts": {
     "build": "webpack"
+    "test": "karma start"
   },
   "devDependencies": {
     "chai": "^3.5.0",
