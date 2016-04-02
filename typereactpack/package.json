@@ -1,5 +1,5 @@
 {
-  "name": "typescript-react-webpack",
+  "name": "type-script--react-js--web-pack",
   "scripts": {
     "build": "webpack"
   },
@@ -12,5 +12,11 @@
   "dependencies": {
     "react": "^0.14.8",
     "react-dom": "^0.14.8"
-  }
+  },
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
