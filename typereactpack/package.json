@@ -1,12 +1,11 @@
 {
   "name": "type-script--react-js--web-pack",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
     "test": "karma start"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.4.5",
+    "chai": "^3.5.0",    
     "karma": "^0.13.22",
     "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "^0.2.3",
