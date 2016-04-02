@@ -4,6 +4,9 @@
     "build": "webpack"
   },
   "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "sinon": "^1.17.3",
     "ts-loader": "^0.8.1",
     "typescript": "^1.8.9",
     "typings": "^0.7.11",
